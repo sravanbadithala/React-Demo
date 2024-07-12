@@ -1,0 +1,25 @@
+{
+  "name": "react_demo",
+  "version": "1.0.0",
+  "description": "vedanshi",
+  "main": "App.js",
+  "scripts": {
+    "test": "just"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sravanbadithala/React-Demo.git"
+  },
+  "keywords": [
+   
+  ],
+  "author": "vedanshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sravanbadithala/React-Demo/issues"
+  },
+  "homepage": "https://github.com/sravanbadithala/React-Demo#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
