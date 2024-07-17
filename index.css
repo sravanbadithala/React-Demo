@@ -1,6 +1,48 @@
-#heading {
-    color: red;
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    border-style: solid;
+    color: blueviolet;
 }
-#heading1 {
-    color: blue;
+.nav-items >ul {
+    display: flex;
+    justify-content: space-between;
+}
+.nav-items >ul >li{
+   padding: 10px;
+   margin: 10px;
+   font-size: 25px;
+}
+.logo{
+    width: 110px;
+
+}
+.body{
+    border-style: solid;
+  
+}
+.restro-containers{
+    border-style: solid;
+   
+    
+
+}
+.resto-cards{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.Restocards{
+    margin: 1px;
+    width: 200px;
+    height: 300px;
+    background-color: darkolivegreen;
+}
+.Restocards :hover{
+    border: 1px solid black;
+
+} 
+.serachBar{
+    padding: 10px;
 }
