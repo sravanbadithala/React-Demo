@@ -46,3 +46,9 @@
 .serachBar{
     padding: 10px;
 }
+
+.filter-btn{
+    margin: 10px;
+    width: 200px;
+    height: 30px;
+}
